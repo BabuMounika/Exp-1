@@ -40,6 +40,7 @@ Verify all UML diagrams, make necessary corrections, and organize the final diag
 <img width="1058" height="917" alt="image" src="https://github.com/user-attachments/assets/c58704ab-b41d-48ac-a538-e3e0e37142ed" />
 
 ## SEQUENCE DIAGRAM
+<img width="992" height="947" alt="image" src="https://github.com/user-attachments/assets/768f1506-032b-4ec9-9682-4857ba117c05" />
 
 ## COMMUNICATION DIAGRAM
 <img width="910" height="788" alt="image" src="https://github.com/user-attachments/assets/819b35a8-ad3b-4b3a-b79f-da7dff6556d8" />
